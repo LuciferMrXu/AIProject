@@ -1,0 +1,3 @@
+rnn cnn logistic
+lstm logistic
+mtcnn logistic

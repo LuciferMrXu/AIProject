@@ -1,0 +1,3 @@
+svm logistic abc
+em gmm svm
+svm logistic

@@ -1,0 +1,1289 @@
+07-27 16:49 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 16:49 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 16:49 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/*
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\0
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\1
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\2
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\3
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\4
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\5
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\6
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\7
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\8
+07-27 16:49 root         INFO     failed to load C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train\9
+07-27 16:49 root         INFO     Batch with 0 images loaded in 0.011216878890991211 seconds
+07-27 16:49 root         INFO     Batch with 0 images processed in 0.0 seconds
+07-27 16:49 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 16:50 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 16:50 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/0/*
+07-27 16:50 root         INFO     Loaded 999, with 1000 images
+07-27 16:50 root         INFO     Batch with 1000 images loaded in 0.269711971282959 seconds
+07-27 16:55 root         INFO     Batch with 1000 images processed in 279.06121373176575 seconds
+07-27 16:55 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 16:55 root         INFO     Loaded 1999, with 1000 images
+07-27 16:55 root         INFO     Batch with 1000 images loaded in 0.2136240005493164 seconds
+07-27 17:00 root         INFO     Batch with 1000 images processed in 274.64805579185486 seconds
+07-27 17:00 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 17:00 root         INFO     Loaded 2999, with 1000 images
+07-27 17:00 root         INFO     Batch with 1000 images loaded in 0.21156978607177734 seconds
+07-27 17:04 root         INFO     Batch with 1000 images processed in 274.0242314338684 seconds
+07-27 17:04 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 17:04 root         INFO     Loaded 3999, with 1000 images
+07-27 17:04 root         INFO     Batch with 1000 images loaded in 0.20971250534057617 seconds
+07-27 17:09 root         INFO     Batch with 1000 images processed in 278.0751702785492 seconds
+07-27 17:09 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 17:09 root         INFO     Loaded 4999, with 1000 images
+07-27 17:09 root         INFO     Batch with 1000 images loaded in 0.25235438346862793 seconds
+07-27 17:13 root         INFO     Batch with 1000 images processed in 279.6007499694824 seconds
+07-27 17:13 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 17:13 root         INFO     Batch with 0 images loaded in 0.010026693344116211 seconds
+07-27 17:13 root         INFO     Batch with 0 images processed in 0.0030083656311035156 seconds
+07-27 17:13 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-27 19:24 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/train/0/*
+07-27 19:25 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/*/train/0/*
+07-27 19:26 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/*/train/0/*
+07-27 19:26 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/*/train/0/*
+07-27 19:27 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/*/train/0/*
+07-27 19:28 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/0_10.jpg/train/0/*
+07-27 19:29 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/0_10.jpg/train/0/*
+07-27 19:35 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/train/0/*
+07-27 19:35 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese\test/images/train/0/*
+07-27 19:39 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/train/0/*
+07-27 19:40 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/train/0/*
+07-27 19:42 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images//train/0/*
+07-27 19:42 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*/train/0/*
+07-27 19:48 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*/train/0/*
+07-27 19:48 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*/train/0/*
+07-27 19:50 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*/train/0/*
+07-27 19:50 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*/train/0/*
+07-27 19:57 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*
+07-27 19:57 root         INFO     Loaded 1, with 2 images
+07-27 19:57 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+07-27 19:57 root         INFO     Loaded 3, with 2 images
+07-27 19:57 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+07-27 19:57 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+07-31 09:52 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:52 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:52 root         INFO     started query
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 09:53 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 09:53 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 09:53 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 09:53 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 09:53 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+07-31 09:53 root         ERROR    Could not load C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+07-31 09:53 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:53 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:53 root         INFO     started query
+07-31 09:57 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 09:57 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 09:57 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 09:57 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 09:57 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 09:57 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 09:57 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 09:57 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 09:57 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 09:57 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 09:57 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:57 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:58 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 09:58 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 09:58 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 09:58 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 09:58 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 09:58 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 09:58 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 09:58 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 09:58 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 09:58 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 09:58 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 09:58 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:01 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:01 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:01 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:01 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:01 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:01 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:01 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:01 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:01 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:01 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:01 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:01 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:03 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:03 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:03 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:03 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:03 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:03 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:03 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:03 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:03 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:03 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:06 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:06 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:06 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:06 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:06 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:06 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:06 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:06 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:06 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:06 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:06 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:06 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:12 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:12 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:12 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:12 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:12 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:12 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:12 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:12 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:12 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:12 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:12 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:12 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:16 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:16 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:16 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:16 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:16 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:16 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:16 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:16 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:16 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:16 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:16 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:16 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:17 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:17 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:17 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:17 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:17 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:17 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:17 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:17 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:17 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:18 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:18 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:18 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:18 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:18 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:18 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:18 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:21 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:21 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:21 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:21 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:21 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:21 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:21 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:21 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:21 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:21 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:21 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:21 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:23 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:23 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:23 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:23 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:23 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:23 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:23 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:23 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:23 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:23 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:23 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:23 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:23 root         INFO     started query
+07-31 10:26 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:26 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:26 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:26 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:26 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:26 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:26 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:26 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:26 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:26 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:26 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:26 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:26 root         INFO     started query
+07-31 10:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+07-31 10:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+07-31 10:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+07-31 10:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+07-31 10:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+07-31 10:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+07-31 10:28 root         INFO     started query
+07-31 10:28 root         INFO     query finished
+07-31 10:57 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 10:57 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/1/*
+07-31 10:57 root         INFO     Loaded 999, with 1000 images
+07-31 10:57 root         INFO     Batch with 1000 images loaded in 0.534553050994873 seconds
+07-31 11:02 root         INFO     Batch with 1000 images processed in 283.5865111351013 seconds
+07-31 11:02 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:02 root         INFO     Loaded 1999, with 1000 images
+07-31 11:02 root         INFO     Batch with 1000 images loaded in 0.49511098861694336 seconds
+07-31 11:06 root         INFO     Batch with 1000 images processed in 284.62284326553345 seconds
+07-31 11:06 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:06 root         INFO     Loaded 2999, with 1000 images
+07-31 11:06 root         INFO     Batch with 1000 images loaded in 0.5020873546600342 seconds
+07-31 11:11 root         INFO     Batch with 1000 images processed in 281.53853964805603 seconds
+07-31 11:11 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:11 root         INFO     Loaded 3999, with 1000 images
+07-31 11:11 root         INFO     Batch with 1000 images loaded in 0.5871071815490723 seconds
+07-31 11:16 root         INFO     Batch with 1000 images processed in 279.2707543373108 seconds
+07-31 11:16 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:16 root         INFO     Loaded 4999, with 1000 images
+07-31 11:16 root         INFO     Batch with 1000 images loaded in 0.5227344036102295 seconds
+07-31 11:20 root         INFO     Batch with 1000 images processed in 273.0039155483246 seconds
+07-31 11:20 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:20 root         INFO     Batch with 0 images loaded in 0.010027408599853516 seconds
+07-31 11:20 root         INFO     Batch with 0 images processed in 0.002005338668823242 seconds
+07-31 11:20 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:26 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:31 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:31 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/2/*
+07-31 11:31 root         INFO     Loaded 999, with 1000 images
+07-31 11:31 root         INFO     Batch with 1000 images loaded in 0.5877492427825928 seconds
+07-31 11:36 root         INFO     Batch with 1000 images processed in 299.7179100513458 seconds
+07-31 11:36 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:36 root         INFO     Loaded 1999, with 1000 images
+07-31 11:36 root         INFO     Batch with 1000 images loaded in 0.6829733848571777 seconds
+07-31 11:41 root         INFO     Batch with 1000 images processed in 312.7419023513794 seconds
+07-31 11:41 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:41 root         INFO     Loaded 2999, with 1000 images
+07-31 11:41 root         INFO     Batch with 1000 images loaded in 0.5787856578826904 seconds
+07-31 11:46 root         INFO     Batch with 1000 images processed in 317.06144189834595 seconds
+07-31 11:46 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:46 root         INFO     Loaded 3999, with 1000 images
+07-31 11:46 root         INFO     Batch with 1000 images loaded in 0.5047733783721924 seconds
+07-31 11:51 root         INFO     Batch with 1000 images processed in 319.6784682273865 seconds
+07-31 11:51 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:51 root         INFO     Loaded 4999, with 1000 images
+07-31 11:51 root         INFO     Batch with 1000 images loaded in 0.5250527858734131 seconds
+07-31 11:57 root         INFO     Batch with 1000 images processed in 323.1353237628937 seconds
+07-31 11:57 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 11:57 root         INFO     Batch with 0 images loaded in 0.012032032012939453 seconds
+07-31 11:57 root         INFO     Batch with 0 images processed in 0.005013704299926758 seconds
+07-31 11:57 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:04 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:04 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/3/*
+07-31 12:04 root         INFO     Loaded 999, with 1000 images
+07-31 12:04 root         INFO     Batch with 1000 images loaded in 0.5856192111968994 seconds
+07-31 12:09 root         INFO     Batch with 1000 images processed in 303.19689297676086 seconds
+07-31 12:09 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:09 root         INFO     Loaded 1999, with 1000 images
+07-31 12:09 root         INFO     Batch with 1000 images loaded in 0.5631988048553467 seconds
+07-31 12:14 root         INFO     Batch with 1000 images processed in 280.75768637657166 seconds
+07-31 12:14 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:14 root         INFO     Loaded 2999, with 1000 images
+07-31 12:14 root         INFO     Batch with 1000 images loaded in 0.4604055881500244 seconds
+07-31 12:19 root         INFO     Batch with 1000 images processed in 276.41240978240967 seconds
+07-31 12:19 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:19 root         INFO     Loaded 3999, with 1000 images
+07-31 12:19 root         INFO     Batch with 1000 images loaded in 0.5504214763641357 seconds
+07-31 12:24 root         INFO     Batch with 1000 images processed in 293.26586079597473 seconds
+07-31 12:24 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:24 root         INFO     Loaded 4999, with 1000 images
+07-31 12:24 root         INFO     Batch with 1000 images loaded in 0.5838017463684082 seconds
+07-31 12:29 root         INFO     Batch with 1000 images processed in 312.0322847366333 seconds
+07-31 12:29 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 12:29 root         INFO     Batch with 0 images loaded in 0.01715540885925293 seconds
+07-31 12:29 root         INFO     Batch with 0 images processed in 0.002507925033569336 seconds
+07-31 12:29 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 13:38 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 13:38 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/4/*
+07-31 13:38 root         INFO     Loaded 999, with 1000 images
+07-31 13:38 root         INFO     Batch with 1000 images loaded in 0.5876970291137695 seconds
+07-31 13:43 root         INFO     Batch with 1000 images processed in 280.24285888671875 seconds
+07-31 13:43 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 13:43 root         INFO     Loaded 1999, with 1000 images
+07-31 13:43 root         INFO     Batch with 1000 images loaded in 0.56618332862854 seconds
+07-31 13:48 root         INFO     Batch with 1000 images processed in 281.4204456806183 seconds
+07-31 13:48 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 13:48 root         INFO     Loaded 2999, with 1000 images
+07-31 13:48 root         INFO     Batch with 1000 images loaded in 0.5474250316619873 seconds
+07-31 13:52 root         INFO     Batch with 1000 images processed in 285.29157733917236 seconds
+07-31 13:52 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 13:52 root         INFO     Loaded 3999, with 1000 images
+07-31 13:52 root         INFO     Batch with 1000 images loaded in 0.5306141376495361 seconds
+07-31 13:57 root         INFO     Batch with 1000 images processed in 277.5863091945648 seconds
+07-31 13:57 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 13:57 root         INFO     Loaded 4999, with 1000 images
+07-31 13:57 root         INFO     Batch with 1000 images loaded in 0.5042262077331543 seconds
+07-31 14:02 root         INFO     Batch with 1000 images processed in 274.9972050189972 seconds
+07-31 14:02 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:02 root         INFO     Batch with 0 images loaded in 0.01622605323791504 seconds
+07-31 14:02 root         INFO     Batch with 0 images processed in 0.0020046234130859375 seconds
+07-31 14:02 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:06 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:06 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/5/*
+07-31 14:06 root         INFO     Loaded 999, with 1000 images
+07-31 14:06 root         INFO     Batch with 1000 images loaded in 0.629967451095581 seconds
+07-31 14:10 root         INFO     Batch with 1000 images processed in 279.25548338890076 seconds
+07-31 14:10 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:10 root         INFO     Loaded 1999, with 1000 images
+07-31 14:10 root         INFO     Batch with 1000 images loaded in 0.4801630973815918 seconds
+07-31 14:15 root         INFO     Batch with 1000 images processed in 275.05979776382446 seconds
+07-31 14:15 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:15 root         INFO     Loaded 2999, with 1000 images
+07-31 14:15 root         INFO     Batch with 1000 images loaded in 0.5084197521209717 seconds
+07-31 14:19 root         INFO     Batch with 1000 images processed in 274.9557626247406 seconds
+07-31 14:19 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:19 root         INFO     Loaded 3999, with 1000 images
+07-31 14:19 root         INFO     Batch with 1000 images loaded in 0.4986562728881836 seconds
+07-31 14:24 root         INFO     Batch with 1000 images processed in 269.48547291755676 seconds
+07-31 14:24 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:24 root         INFO     Loaded 4999, with 1000 images
+07-31 14:24 root         INFO     Batch with 1000 images loaded in 0.4639894962310791 seconds
+07-31 14:28 root         INFO     Batch with 1000 images processed in 270.3184313774109 seconds
+07-31 14:28 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:28 root         INFO     Batch with 0 images loaded in 0.01698446273803711 seconds
+07-31 14:28 root         INFO     Batch with 0 images processed in 0.002006053924560547 seconds
+07-31 14:28 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:39 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:39 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/6/*
+07-31 14:39 root         INFO     Loaded 999, with 1000 images
+07-31 14:39 root         INFO     Batch with 1000 images loaded in 0.6610426902770996 seconds
+07-31 14:44 root         INFO     Batch with 1000 images processed in 279.297226190567 seconds
+07-31 14:44 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:44 root         INFO     Loaded 1999, with 1000 images
+07-31 14:44 root         INFO     Batch with 1000 images loaded in 0.4826171398162842 seconds
+07-31 14:49 root         INFO     Batch with 1000 images processed in 302.0049412250519 seconds
+07-31 14:49 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:49 root         INFO     Loaded 2999, with 1000 images
+07-31 14:49 root         INFO     Batch with 1000 images loaded in 0.5180730819702148 seconds
+07-31 14:54 root         INFO     Batch with 1000 images processed in 288.6802875995636 seconds
+07-31 14:54 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:54 root         INFO     Loaded 3999, with 1000 images
+07-31 14:54 root         INFO     Batch with 1000 images loaded in 0.46677660942077637 seconds
+07-31 14:58 root         INFO     Batch with 1000 images processed in 276.0985519886017 seconds
+07-31 14:58 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 14:58 root         INFO     Loaded 4999, with 1000 images
+07-31 14:58 root         INFO     Batch with 1000 images loaded in 0.5114424228668213 seconds
+07-31 15:03 root         INFO     Batch with 1000 images processed in 280.1569538116455 seconds
+07-31 15:03 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+07-31 15:03 root         INFO     Batch with 0 images loaded in 0.016590595245361328 seconds
+07-31 15:03 root         INFO     Batch with 0 images processed in 0.0010023117065429688 seconds
+07-31 15:03 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-02 09:05 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*
+08-02 09:05 root         INFO     Loaded 1, with 2 images
+08-02 09:05 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 09:05 root         INFO     Loaded 3, with 2 images
+08-02 09:05 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 09:05 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 09:05 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:05 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:05 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:05 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:05 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:05 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:05 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:05 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:05 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:05 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:05 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:05 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:05 root         INFO     started query
+08-02 09:05 root         INFO     query finished
+08-02 09:11 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:11 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:11 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:11 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:11 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:11 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:11 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:11 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:11 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:11 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:11 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:11 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:11 root         INFO     started query
+08-02 09:11 root         INFO     query finished
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\36.feats_pool3.npy
+08-02 09:20 root         ERROR    Could not load C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\36.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 09:20 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:20 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:20 root         INFO     started query
+08-02 09:20 root         INFO     query finished
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 09:55 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:55 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 09:55 root         INFO     started query
+08-02 09:55 root         INFO     query finished
+08-02 10:03 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*
+08-02 10:03 root         INFO     Loaded 1, with 2 images
+08-02 10:03 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 10:03 root         INFO     Loaded 3, with 2 images
+08-02 10:03 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 10:03 root         INFO     Loaded 5, with 2 images
+08-02 10:03 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 10:04 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/images/*
+08-02 10:04 root         INFO     Loaded 1, with 2 images
+08-02 10:04 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 10:04 root         INFO     Loaded 3, with 2 images
+08-02 10:04 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 10:04 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:04 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:04 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:04 root         INFO     started query
+08-02 10:04 root         INFO     query finished
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:08 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:08 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:08 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:08 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:08 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:08 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:08 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:09 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:09 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:10 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:10 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:10 root         INFO     started query
+08-02 10:10 root         INFO     query finished
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:13 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:13 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:13 root         INFO     started query
+08-02 10:13 root         INFO     query finished
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:14 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:14 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:14 root         INFO     started query
+08-02 10:14 root         INFO     query finished
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-02 10:15 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:15 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-02 10:15 root         INFO     started query
+08-02 10:15 root         INFO     query finished
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-04 13:27 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-04 13:27 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-04 13:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-04 13:28 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-04 13:28 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-04 13:28 root         INFO     started query
+08-04 13:28 root         INFO     query finished
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-27 10:34 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-27 10:34 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-27 10:35 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-27 10:35 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-27 10:35 root         INFO     started query
+08-27 10:35 root         INFO     query finished
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\1.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\10.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\11.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\12.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\13.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\14.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\15.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\16.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\17.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\18.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\19.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\2.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\20.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\21.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\22.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\23.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\24.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\25.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\26.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\27.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\28.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\29.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\3.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\30.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\31.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\32.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\33.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\34.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\35.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\4.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\5.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\6.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\7.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\8.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/inception.pyindex\9.feats_pool3.npy
+08-27 11:56 root         INFO     Starting C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-27 11:56 root         INFO     Loaded C:/Users/11725/PycharmProjects/tensorflow/myimagese/test.pytest/index/3.feats_pool3.npy
+08-27 11:56 root         INFO     started query
+08-27 11:56 root         INFO     query finished
+08-27 14:03 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:04 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:09 root         INFO     Starting with images present in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages storing index in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:09 root         INFO     starting with path C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyimages/train/7/*
+08-27 14:09 root         INFO     Loaded 999, with 1000 images
+08-27 14:09 root         INFO     Batch with 1000 images loaded in 0.5833687782287598 seconds
+08-27 14:14 root         INFO     Batch with 1000 images processed in 316.0130980014801 seconds
+08-27 14:14 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:14 root         INFO     Loaded 1999, with 1000 images
+08-27 14:14 root         INFO     Batch with 1000 images loaded in 0.5955841541290283 seconds
+08-27 14:19 root         INFO     Batch with 1000 images processed in 318.6436257362366 seconds
+08-27 14:19 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:19 root         INFO     Loaded 2999, with 1000 images
+08-27 14:19 root         INFO     Batch with 1000 images loaded in 0.5517635345458984 seconds
+08-27 14:25 root         INFO     Batch with 1000 images processed in 315.72499442100525 seconds
+08-27 14:25 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:25 root         INFO     Loaded 3999, with 1000 images
+08-27 14:25 root         INFO     Batch with 1000 images loaded in 0.5649898052215576 seconds
+08-27 14:30 root         INFO     Batch with 1000 images processed in 334.8371207714081 seconds
+08-27 14:30 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:30 root         INFO     Loaded 4999, with 1000 images
+08-27 14:30 root         INFO     Batch with 1000 images loaded in 0.7288410663604736 seconds
+08-27 14:35 root         INFO     Batch with 1000 images processed in 320.11187171936035 seconds
+08-27 14:35 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/
+08-27 14:35 root         INFO     Batch with 0 images loaded in 0.016044139862060547 seconds
+08-27 14:35 root         INFO     Batch with 0 images processed in 0.003007650375366211 seconds
+08-27 14:35 root         INFO     storing in C:/Users/11725/PycharmProjects/tensorflow/myimagese/indexfile.pyindex/

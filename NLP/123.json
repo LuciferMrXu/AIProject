@@ -1,0 +1,4616 @@
+{
+	"_engine_info" : 
+	{
+		"category" : "teaching_assistance_english",
+		"name" : "iFlytek-Confucius Engine",
+		"version" : "2.0.0.1003"
+	},
+	"protocol" : "2.0",
+	"region" : 
+	[
+		{
+			"coord" : 
+			{
+				"height" : 87,
+				"width" : 274,
+				"x" : 41,
+				"y" : 22
+			},
+			"recog" : 
+			{
+				"content" : "定语从句",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "定"
+					},
+					{
+						"conf" : 1,
+						"content" : "语"
+					},
+					{
+						"conf" : 1,
+						"content" : "从"
+					},
+					{
+						"conf" : 1,
+						"content" : "句"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "tabel"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 90,
+				"width" : 1160,
+				"x" : 41,
+				"y" : 125
+			},
+			"recog" : 
+			{
+				"content" : "把下面的句子合并成或变成含有定语从句的复合句。",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "把"
+					},
+					{
+						"conf" : 1,
+						"content" : "下"
+					},
+					{
+						"conf" : 1,
+						"content" : "面"
+					},
+					{
+						"conf" : 1,
+						"content" : "的"
+					},
+					{
+						"conf" : 1,
+						"content" : "句"
+					},
+					{
+						"conf" : 1,
+						"content" : "子"
+					},
+					{
+						"conf" : 1,
+						"content" : "合"
+					},
+					{
+						"conf" : 1,
+						"content" : "并"
+					},
+					{
+						"conf" : 1,
+						"content" : "成"
+					},
+					{
+						"conf" : 1,
+						"content" : "或"
+					},
+					{
+						"conf" : 1,
+						"content" : "变"
+					},
+					{
+						"conf" : 1,
+						"content" : "成"
+					},
+					{
+						"conf" : 1,
+						"content" : "含"
+					},
+					{
+						"conf" : 1,
+						"content" : "有"
+					},
+					{
+						"conf" : 1,
+						"content" : "定"
+					},
+					{
+						"conf" : 1,
+						"content" : "语"
+					},
+					{
+						"conf" : 1,
+						"content" : "从"
+					},
+					{
+						"conf" : 1,
+						"content" : "句"
+					},
+					{
+						"conf" : 1,
+						"content" : "的"
+					},
+					{
+						"conf" : 1,
+						"content" : "复"
+					},
+					{
+						"conf" : 1,
+						"content" : "合"
+					},
+					{
+						"conf" : 1,
+						"content" : "句"
+					},
+					{
+						"conf" : 1,
+						"content" : "。"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "tabel"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 78,
+				"width" : 1381,
+				"x" : 41,
+				"y" : 227
+			},
+			"recog" : 
+			{
+				"content" : "1.I am Li Jin.I am chairman of the Students' Union of Chenguang Middle School .",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "1"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "L"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "J"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "S"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "'"
+					},
+					{
+						"conf" : 1,
+						"content" : "U"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "C"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "M"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "S"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 77,
+				"width" : 1702,
+				"x" : 64,
+				"y" : 330
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 78,
+				"width" : 986,
+				"x" : 41,
+				"y" : 381
+			},
+			"recog" : 
+			{
+				"content" : "2.The person is Tu Youyou .I would like to interview her .",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "2"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "T"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "T"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "Y"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1696,
+				"x" : 70,
+				"y" : 487
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 83,
+				"width" : 1731,
+				"x" : 38,
+				"y" : 539
+			},
+			"recog" : 
+			{
+				"content" : "3.I'd like to invite you to join us for a visit to the nearby nursing home next Saturday for the Double",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "3"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "'"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "j"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "x"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "S"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "D"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 78,
+				"width" : 983,
+				"x" : 73,
+				"y" : 609
+			},
+			"recog" : 
+			{
+				"content" : "Ninth Festival.It is the day for the elderly in our culture .",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "N"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "F"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1699,
+				"x" : 70,
+				"y" : 718
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 61,
+				"width" : 1696,
+				"x" : 70,
+				"y" : 815
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 81,
+				"width" : 1722,
+				"x" : 44,
+				"y" : 859
+			},
+			"recog" : 
+			{
+				"content" : "4.We made the dough figurines.Finally,we took pictures with the old craftsman and the dough",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "4"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "W"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "F"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : ","
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 68,
+				"width" : 183,
+				"x" : 80,
+				"y" : 927
+			},
+			"recog" : 
+			{
+				"content" : "figurines.",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1696,
+				"x" : 73,
+				"y" : 1036
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 68,
+				"width" : 1696,
+				"x" : 70,
+				"y" : 1129
+			},
+			"recog" : 
+			{
+				"content" : "",
+				"exception" : -1
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1288,
+				"x" : 41,
+				"y" : 1177
+			},
+			"recog" : 
+			{
+				"content" : "5.I can learn all the important things.They have happened during the week .",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "5"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "T"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 77,
+				"width" : 1699,
+				"x" : 67,
+				"y" : 1277
+			},
+			"recog" : 
+			{
+				"content" : "",
+				"exception" : -1
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 77,
+				"width" : 1365,
+				"x" : 38,
+				"y" : 1331
+			},
+			"recog" : 
+			{
+				"content" : "6.Iwould like to interview Zhang Haidi.Her experience has inspired me deeply .",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "6"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "Z"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "H"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "H"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "x"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1699,
+				"x" : 67,
+				"y" : 1437
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 78,
+				"width" : 1330,
+				"x" : 41,
+				"y" : 1485
+			},
+			"recog" : 
+			{
+				"content" : "7.Our friends will lend us a helping hand when we need help.We all know it .",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "7"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "O"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "W"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1699,
+				"x" : 67,
+				"y" : 1591
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 84,
+				"width" : 1722,
+				"x" : 38,
+				"y" : 1642
+			},
+			"recog" : 
+			{
+				"content" : "8.An old saying goes that living without a clear and achievable aim is like sailing without a compass.",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "8"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "A"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 78,
+				"width" : 1696,
+				"x" : 70,
+				"y" : 1748
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 80,
+				"width" : 1404,
+				"x" : 38,
+				"y" : 1803
+			},
+			"recog" : 
+			{
+				"content" : "9.He was always working hard.It made him pass the college entrance examination.",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "9"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "H"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "k"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "x"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 64,
+				"width" : 1702,
+				"x" : 64,
+				"y" : 1912
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 81,
+				"width" : 1718,
+				"x" : 48,
+				"y" : 1960
+			},
+			"recog" : 
+			{
+				"content" : "10.I hope you can help the students in our class to learn more about English and western culture and it",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "1"
+					},
+					{
+						"conf" : 1,
+						"content" : "0"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "E"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 71,
+				"width" : 556,
+				"x" : 96,
+				"y" : 2027
+			},
+			"recog" : 
+			{
+				"content" : "can increase our understanding.",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 74,
+				"width" : 1679,
+				"x" : 93,
+				"y" : 2133
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 62,
+				"width" : 1680,
+				"x" : 89,
+				"y" : 2226
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 78,
+				"width" : 1728,
+				"x" : 44,
+				"y" : 2274
+			},
+			"recog" : 
+			{
+				"content" : "11.In ten years,Iwill build up my own firm and it can help many people solve the problem of finding a",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "1"
+					},
+					{
+						"conf" : 1,
+						"content" : "1"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : ","
+					},
+					{
+						"conf" : 1,
+						"content" : "I"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "y"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "v"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "f"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 67,
+				"width" : 103,
+				"x" : 93,
+				"y" : 2339
+			},
+			"recog" : 
+			{
+				"content" : "job.",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "j"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "b"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 71,
+				"width" : 1683,
+				"x" : 89,
+				"y" : 2451
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 65,
+				"width" : 1680,
+				"x" : 89,
+				"y" : 2544
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 71,
+				"width" : 1645,
+				"x" : 44,
+				"y" : 2592
+			},
+			"recog" : 
+			{
+				"content" : "12.The picture shows us a touching moment and at that time a little girl comes to greet her mom.",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "1"
+					},
+					{
+						"conf" : 1,
+						"content" : "2"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					},
+					{
+						"conf" : 1,
+						"content" : "T"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "p"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "w"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "u"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "n"
+					},
+					{
+						"conf" : 1,
+						"content" : "d"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "a"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "i"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "l"
+					},
+					{
+						"conf" : 1,
+						"content" : "c"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "s"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "g"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "t"
+					},
+					{
+						"conf" : 1,
+						"content" : "h"
+					},
+					{
+						"conf" : 1,
+						"content" : "e"
+					},
+					{
+						"conf" : 1,
+						"content" : "r"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "o"
+					},
+					{
+						"conf" : 1,
+						"content" : "m"
+					},
+					{
+						"conf" : 1,
+						"content" : "."
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 71,
+				"width" : 1683,
+				"x" : 93,
+				"y" : 2708
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		},
+		{
+			"coord" : 
+			{
+				"height" : 64,
+				"width" : 1676,
+				"x" : 93,
+				"y" : 2804
+			},
+			"recog" : 
+			{
+				"content" : " ifly-latex-begin \\_  ifly-latex-end ",
+				"element" : 
+				[
+					{
+						"conf" : 1,
+						"content" : "\\_"
+					}
+				],
+				"exception" : 0
+			},
+			"type" : "text"
+		}
+	]
+}

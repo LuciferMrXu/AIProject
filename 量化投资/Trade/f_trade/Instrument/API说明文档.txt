@@ -1,0 +1,30 @@
+IDE报错说明：
+
+'CTPMarket' object has no attribute 'fReqUserLogin'------------> CTP未开放
+
+
+接口类说明：
+数据类：
+trading.dfMinute 1分钟数据
+trading.Open 开盘价
+trading.High 最高价
+trading.Low 最低价
+trading.Close 收盘价
+交易类：
+trading.BuyOpen() 买开
+trading.SellClose() 卖平
+trading.ShortOpen() 卖开
+trading.CoverClose() 买平
+查询类：
+trading.BuyPos 多头持仓查询
+trading.SellPos  空头持仓查询
+
+
+
+
+
+
+
+
+
+                                                  

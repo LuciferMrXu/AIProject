@@ -1,0 +1,5 @@
+model_checkpoint_path: "C:\\workspace\\python\\tensorflow_demo\\tf05\\\345\236\203\345\234\276\351\202\256\344\273\266\345\210\206\347\261\273\\runs\\1521371378\\model.ckpt\\email_network-400"
+all_model_checkpoint_paths: "C:\\workspace\\python\\tensorflow_demo\\tf05\\\345\236\203\345\234\276\351\202\256\344\273\266\345\210\206\347\261\273\\runs\\1521371378\\model.ckpt\\email_network-100"
+all_model_checkpoint_paths: "C:\\workspace\\python\\tensorflow_demo\\tf05\\\345\236\203\345\234\276\351\202\256\344\273\266\345\210\206\347\261\273\\runs\\1521371378\\model.ckpt\\email_network-200"
+all_model_checkpoint_paths: "C:\\workspace\\python\\tensorflow_demo\\tf05\\\345\236\203\345\234\276\351\202\256\344\273\266\345\210\206\347\261\273\\runs\\1521371378\\model.ckpt\\email_network-300"
+all_model_checkpoint_paths: "C:\\workspace\\python\\tensorflow_demo\\tf05\\\345\236\203\345\234\276\351\202\256\344\273\266\345\210\206\347\261\273\\runs\\1521371378\\model.ckpt\\email_network-400"
