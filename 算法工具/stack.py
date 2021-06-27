@@ -35,3 +35,5 @@ if __name__ == "__main__":
   s1 = Mystack()
   s1.my_push(1)
   print(s1.size())
+
+
