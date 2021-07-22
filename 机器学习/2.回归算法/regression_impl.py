@@ -49,23 +49,6 @@ class Regression:
     def cross_entropy(self,yhats, y):
         return - np.mean( y * np.log(yhats))
 
-    '''
-    def train_linear_regression(self,X, weights, bias, y):
-        for i in range(10):
-            # yhats = X @ weights.T + bias
-            yhats = logistic(X @ weights.T + bias)
-            threshold = 0.5
-            probs = np.array((yhats > threshold), dtype=np.int)
-            ic(probs)
-            # loss = cross_entropy(yhats, y)
-            # loss_value = loss(yhats, y)
-            # ic(loss_value)
-            # learning_rate = 1e-3
-            # weights += -1 * partial_w(yhats, y, X) * learning_rate
-            # bias += -1 * partial_b(yhats, y)
-            ic(yhats)
-            # ic(loss)
-    '''
     # 线性回归
     def train_linear_regression(self,X, weights, bias, y):
         for i in range(self.batch):
