@@ -1,9 +1,0 @@
-#!wing
-#!version=6.0
-##################################################################
-# Wing IDE project file                                          #
-##################################################################
-[project attributes]
-proj.file-list = [loc('GCNet.py'),
-                  loc('vgg_17flower.py')]
-proj.file-type = 'shared'
