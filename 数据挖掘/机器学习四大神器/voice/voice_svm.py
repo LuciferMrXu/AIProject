@@ -42,7 +42,8 @@ X = scaler.fit_transform(X)
 print(X)
 
 
-
+# 切分训练集和测试集
+X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.2,random_state=2021)
 
 # 选择模型训练
 svc = SVC()
