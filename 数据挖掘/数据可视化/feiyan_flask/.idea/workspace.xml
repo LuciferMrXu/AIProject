@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9be4f88f-5101-4a0e-bc5e-dcacad7a446f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/shop_flask$abc.coverage" NAME="abc Coverage Results" MODIFIED="1572060780424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shop_flask$shop_flask.coverage" NAME="shop_flask Coverage Results" MODIFIED="1572079664227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/feed_flask$test.coverage" NAME="test Coverage Results" MODIFIED="1572227157100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+    <SUITE FILE_PATH="coverage/shop_flask$abcInfo.coverage" NAME="abcInfo Coverage Results" MODIFIED="1572061903650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/feed_flask$ApiFeed.coverage" NAME="ApiFeed Coverage Results" MODIFIED="1574479883436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App/views" />
+    <SUITE FILE_PATH="coverage/feed_flask$Flask__manage_py_.coverage" NAME="Flask (manage.py) Coverage Results" MODIFIED="1582106292675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/feed_flask$shop_flask.coverage" NAME="shop_flask Coverage Results" MODIFIED="1572227260706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/views/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/templates/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sqlalchemy/orm/mapper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34050">
+              <caret line="1396" selection-start-line="1396" selection-end-line="1396" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/ext.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+              <folding>
+                <element signature="e#16#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="62" selection-start-line="62" selection-end-line="72" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/views/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list</find>
+      <find>eid</find>
+      <find>sendagain</find>
+      <find>feedlist</find>
+      <find>feed</find>
+      <find>type_label</find>
+      <find>add</find>
+      <find>backInfo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/App/templates/checkfeed.html" />
+        <option value="$PROJECT_DIR$/App/templates/systemBase.html" />
+        <option value="$PROJECT_DIR$/App/views/loginView.py" />
+        <option value="$PROJECT_DIR$/App/templates/feedlist.html" />
+        <option value="$PROJECT_DIR$/App/templates/addfeed.html" />
+        <option value="$PROJECT_DIR$/App/views/ApiFeed.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sqlalchemy/dialects/mysql/mysqldb.py" />
+        <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/App/__init__.py" />
+        <option value="$PROJECT_DIR$/App/views/__init__.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/App/templates/index.html" />
+        <option value="$PROJECT_DIR$/App/models.py" />
+        <option value="$PROJECT_DIR$/App/templates/detail.html" />
+        <option value="$PROJECT_DIR$/App/views/api.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1125" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1SrI4DBOUC84CwKayCR5ZWSHbgG" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="feed_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feed_flask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feed_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feed_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feed_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feed_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feed_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feed_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../django_lesson" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ghost\Desktop\feed_flask\feed_flask" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hui\Desktop\feed_flask(3)\feed_flask\feed_flask\App" />
+      <recent name="C:\Users\ghost\Desktop\feed_flask\feed_flask" />
+      <recent name="C:\Users\hui\Desktop\shop_flask\App\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (manage.py)">
+    <configuration name="a.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/shop_flask/a.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="feedlist.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/feed_flask/App/templates/feedlist.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiFeed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="shop_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\hui\Desktop\feed_flask(3)\feed_flask\feed_flask\App\views\api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="shop_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (manage.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="shop_flask" />
+      <option name="target" value="$PROJECT_DIR$/manage.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shop_flask" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="shop_flask" />
+      <option name="target" value="$PROJECT_DIR$/App/__init__.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.shop_flask" />
+      <item itemvalue="Flask server.Flask (manage.py)" />
+      <item itemvalue="JavaScript Debug.a.html" />
+      <item itemvalue="JavaScript Debug.feedlist.html" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ApiFeed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (manage.py)" />
+        <item itemvalue="Python.ApiFeed" />
+        <item itemvalue="JavaScript Debug.feedlist.html" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="JavaScript Debug.a.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be4f88f-5101-4a0e-bc5e-dcacad7a446f" name="Default Changelist" comment="" />
+      <created>1572013579400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572013579400</updated>
+      <workItem from="1572013580824" duration="9178000" />
+      <workItem from="1572056055498" duration="16903000" />
+      <workItem from="1572226412004" duration="2172000" />
+      <workItem from="1572228912425" duration="71000" />
+      <workItem from="1572245255243" duration="4287000" />
+      <workItem from="1572274178795" duration="2984000" />
+      <workItem from="1572313147782" duration="837000" />
+      <workItem from="1572315104994" duration="698000" />
+      <workItem from="1572315900732" duration="71000" />
+      <workItem from="1572316138810" duration="40000" />
+      <workItem from="1572319732707" duration="22000" />
+      <workItem from="1572335286757" duration="163000" />
+      <workItem from="1572335560334" duration="128000" />
+      <workItem from="1572336143695" duration="44000" />
+      <workItem from="1572336311316" duration="32000" />
+      <workItem from="1572336536506" duration="246000" />
+      <workItem from="1572336812196" duration="29000" />
+      <workItem from="1572338289461" duration="125000" />
+      <workItem from="1572338683290" duration="567000" />
+      <workItem from="1572339477029" duration="132000" />
+      <workItem from="1572423180569" duration="551000" />
+      <workItem from="1572423832115" duration="131000" />
+      <workItem from="1572424173793" duration="516000" />
+      <workItem from="1572424812109" duration="112000" />
+      <workItem from="1572425472988" duration="29000" />
+      <workItem from="1572425835929" duration="739000" />
+      <workItem from="1572427842545" duration="170000" />
+      <workItem from="1572428064506" duration="130000" />
+      <workItem from="1572431791143" duration="510000" />
+      <workItem from="1572432342969" duration="24000" />
+      <workItem from="1572432407519" duration="66000" />
+      <workItem from="1572476954124" duration="209000" />
+      <workItem from="1572492852939" duration="657000" />
+      <workItem from="1572503534381" duration="605000" />
+      <workItem from="1572505443202" duration="2502000" />
+      <workItem from="1572508504520" duration="2000" />
+      <workItem from="1572516157830" duration="1107000" />
+      <workItem from="1572591113037" duration="538000" />
+      <workItem from="1572845401539" duration="2713000" />
+      <workItem from="1572943306561" duration="4307000" />
+      <workItem from="1573343315861" duration="89000" />
+      <workItem from="1573343812717" duration="200000" />
+      <workItem from="1573344029386" duration="30000" />
+      <workItem from="1573344347649" duration="61000" />
+      <workItem from="1573344445876" duration="7000" />
+      <workItem from="1573353246556" duration="13000" />
+      <workItem from="1573353261931" duration="3356000" />
+      <workItem from="1573365734167" duration="1348000" />
+      <workItem from="1573374367460" duration="9794000" />
+      <workItem from="1573478894250" duration="601000" />
+      <workItem from="1574319111785" duration="1181000" />
+      <workItem from="1574327316710" duration="274000" />
+      <workItem from="1574387347504" duration="994000" />
+      <workItem from="1574393143123" duration="19000" />
+      <workItem from="1574410876638" duration="2657000" />
+      <workItem from="1574480093519" duration="220000" />
+      <workItem from="1574501991744" duration="10000" />
+      <workItem from="1575250736283" duration="3073000" />
+      <workItem from="1576920642565" duration="2143000" />
+      <workItem from="1578715556002" duration="51000" />
+      <workItem from="1582096419456" duration="8607000" />
+      <workItem from="1582108822204" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34344000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7851812" weight="0.28169015" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.5655471" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.21481876" side_tool="true" visible="true" weight="0.28169015" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49573562" weight="0.24702059" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2341" y="82" key="FileChooserDialogImpl" timestamp="1572516576141">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2341" y="82" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1572516576141" />
+    <state width="1222" height="197" key="GridCell.Tab.0.bottom" timestamp="1573344408736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="68" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1572505976519" />
+    <state width="969" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1572948036977" />
+    <state width="1222" height="197" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1573344408736" />
+    <state width="1222" height="197" key="GridCell.Tab.0.center" timestamp="1573344408735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="68" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1572505976519" />
+    <state width="969" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1572948036977" />
+    <state width="1222" height="197" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1573344408735" />
+    <state width="1222" height="197" key="GridCell.Tab.0.left" timestamp="1573344408735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="68" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1572505976518" />
+    <state width="969" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1572948036977" />
+    <state width="1222" height="197" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1573344408735" />
+    <state width="1222" height="197" key="GridCell.Tab.0.right" timestamp="1573344408735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="68" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1572505976519" />
+    <state width="969" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1572948036977" />
+    <state width="1222" height="197" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1573344408735" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/App/views/api.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Python.FlaskServer">
+        <watch expression="i.query" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/feed_flask$Flask__manage_py_.coverage" NAME="Flask (manage.py) Coverage Results" MODIFIED="1573344378158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App/templates/checkfeed.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/flask_login.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/flask/app.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/flask_login/utils.py" />
+    <entry file="file://$PROJECT_DIR$/App/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/signup.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/succeed.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/feedlist.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/addfeed.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/password.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/backInfo.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/systemBase.html" />
+    <entry file="file://$PROJECT_DIR$/App/templates/test.html" />
+    <entry file="file://$PROJECT_DIR$/App/views/ApiFeed1.py" />
+    <entry file="file://$PROJECT_DIR$/App/views/loginView.py" />
+    <entry file="file://$PROJECT_DIR$/email_test(1).py" />
+    <entry file="file://$PROJECT_DIR$/user.sql" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sqlalchemy/dialects/mysql/mysqldb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sqlalchemy/orm/mapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34050">
+          <caret line="1396" selection-start-line="1396" selection-end-line="1396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/ext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="e#16#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="62" selection-start-line="62" selection-end-line="72" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
